@@ -103,5 +103,5 @@ print("=====================================")
 # Finally, this is what prints out the solutions
 if nice_equation:
     if solution_one != solution_two:
-        print(f"x = {solution_one} and x = {solution_two}")
-    else: print(f"x = {solution_one}")
+        print(f"x = {round(solution_one,3)} and x = {round(solution_two,3)}")
+    else: print(f"x = {round(solution_one,3)}")
