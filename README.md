@@ -11,3 +11,6 @@ The order of when files were made:
 2. quadratic_solver.py  25/5/25
 3. caeser_cipher.py  3/6/25
 4. hexcode_to_rgb.py  9/6/25
+
+PS. As of right now, the quadratic solver doesn't work properly in the format where you type out the entire quadratic equation as an input (eg. x^2+7x+12)
+But it does work if you put in just a,b & c (eg. 1 7 12)
